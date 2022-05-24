@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+form{
+    margin: 20px;
+    width: 700px;
+}
+
+legend{
+    margin-bottom: 20px;
+    margin-left: 20px;
+}
+
+input, select{
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.language{
+    margin: 0;
+}
+
+.block{
+    display: flex;
+
+}
+
+.nom{
+    margin-left: 20px;
+    height: 20px;
+    width: 200px;
+}
+
+/* .contenu{
+    
+} */
+
+.language{
+    margin-left: 200px;
+}
+
+.fin{
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
